@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: "/routerandvuex",
+  publicPath: "/<routerandvuex>",
   outputDir: "docs",
 };
